@@ -1,0 +1,24 @@
+{
+  "customSyntax": "postcss-html",
+  "rules": {
+    "no-duplicate-selectors": true,
+    "selector-pseudo-class-no-unknown": true,
+    "max-empty-lines": 1,
+    "declaration-block-no-duplicate-properties": true,
+    "block-no-empty": true,
+    "color-no-invalid-hex": true,
+    "font-family-no-duplicate-names": true,
+    "function-calc-no-unspaced-operator": true,
+    "unit-no-unknown": true,
+    "selector-type-no-unknown": true,
+    "media-feature-name-no-unknown": true,
+    "color-hex-case": "upper",
+    "property-case": "lower",
+    "selector-attribute-quotes": "always",
+    "selector-attribute-operator-space-before": "always",
+    "selector-attribute-operator-space-after": "always",
+    "declaration-bang-space-after": "never",
+    "declaration-bang-space-before": "always",
+    "declaration-empty-line-before": "never"
+  }
+}
