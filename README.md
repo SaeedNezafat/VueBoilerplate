@@ -1,4 +1,5 @@
-## Configuration Setup for Vue with TypeScript, Husky, Prettier, ESLint, Stylelint, and Vite
+# Vue Boilerplate
+### Configuration Setup for Vue with TypeScript, Husky, Prettier, ESLint, Stylelint, and Vite
 
 ## About Project
 These configurations and settings are used to improve the quality and efficiency of web development projects. They help you to:
